@@ -25,4 +25,7 @@ Using python, we join the three datasets together to get the final dataset . The
 Now its time to convert the dataset into a csv file and import it into Power BI. The visualizations done in power BI tell us that the animals category is the most popular and watched category among others. The month of May is the busiest in terms of online traffic for the company. Most content uploads are in the form of photos.
 And overall sentiment of the users towards the content is on the positive side with only 30% negative reactions.
 
+![image](https://github.com/user-attachments/assets/221daa1f-194f-44f4-9f8d-92d449b1b2bb)
+
+
 Pdf of visualisation is provided in the repo. Code is provided in the "Data Projects" repo.
